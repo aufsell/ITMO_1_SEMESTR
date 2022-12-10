@@ -1,7 +1,6 @@
 <timetable>
 	<day>Пн</day>
 	<lesson1>
-		<!--#hello-->
 		<time>11:40-13:30</time>
 		<room>2304</room>
 		<subject>Английский язык</subject>
@@ -15,7 +14,6 @@
 		<time>11:40-11:30</time>
 		<room>2304</room>
 		<subject>Английский язык </subject>
-		<!--#gg-->
 		<teacher>Иванова Полина Витальевна</teacher>
 		<location>ул.Ломоносова, д.9, лит. М</location>
 		<parity>false</parity>

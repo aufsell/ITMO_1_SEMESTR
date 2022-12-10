@@ -1,7 +1,6 @@
 timetable:
   day: Пн
   lesson1:
-    # hello
     time: 11:40-13:30
     room: 2304
     subject: Английский язык
@@ -14,8 +13,6 @@ timetable:
     time: 11:40-11:30
     room: 2304
     subject: Английский язык 
-    # gg
-    # gg
     teacher: Иванова Полина Витальевна
     location: ул.Ломоносова, д.9, лит. М
     parity: false

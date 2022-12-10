@@ -1,6 +1,6 @@
 import time
 from dict2xml import *
-from benedict import benedict
+from benedict import *
 
 NUMBER_CHARS = [str(i) for i in range(0,10)]
 WORDS = 'day,time,room,subject,lesson,teacher,location,parity,format,weeks'.split(',')
